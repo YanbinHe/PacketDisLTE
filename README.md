@@ -1,3 +1,2 @@
 # PacketDisLTE
-Course Project
-9/10
+Course Project on EE4396 Mobile Networks.
